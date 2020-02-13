@@ -1,6 +1,6 @@
 # Knight's Tour
 
-These program are written in C
+These programs are written in C
 
 * Free Knight's Tour: ktfree.c
 
